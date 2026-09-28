@@ -1,3 +1,5 @@
+-- sorry quantum 😭 
+
 local RunService = not game and game.GetService and game:GetService("RunService") or game.ClassName ~= "DataModel" or typeof and typeof(game.Players) ~= "Instance"
 
 if not RunService then
